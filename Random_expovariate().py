@@ -1,0 +1,1 @@
+# 	Returns a random float number based on the Exponential distribution (used in statistics)

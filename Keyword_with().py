@@ -1,0 +1,1 @@
+# Used to simplify exception handling

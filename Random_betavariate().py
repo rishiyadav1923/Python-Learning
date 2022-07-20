@@ -1,0 +1,1 @@
+# Returns a random float number between 0 and 1 based on the Beta distribution (used in statistics)

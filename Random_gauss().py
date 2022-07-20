@@ -1,0 +1,1 @@
+# Returns a random float number based on the Gaussian distribution (used in probability theories)

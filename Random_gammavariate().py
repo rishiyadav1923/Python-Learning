@@ -1,0 +1,1 @@
+# Returns a random float number based on the Gamma distribution (used in statistics)

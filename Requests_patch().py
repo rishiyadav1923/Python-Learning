@@ -1,0 +1,1 @@
+# patch(url, data, args)	Sends a PATCH request to the specified url
